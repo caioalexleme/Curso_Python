@@ -1,0 +1,3 @@
+[console_scripts]
+dados = app.__main__:main
+

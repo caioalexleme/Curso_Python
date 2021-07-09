@@ -1,0 +1,57 @@
+Metadata-Version: 2.0
+Name: dados
+Version: 0.1.4
+Summary: Random word generator
+Home-page: https://github.com/jamrizzi/foundation
+Author: Jam Risser
+Author-email: jam@jamrizzi.com
+License: MIT
+Keywords: random word dice generator name server generate
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Requires-Dist: cement (==2.10.2)
+Requires-Dist: colorlog (==3.1.0)
+Requires-Dist: future (==0.16.0)
+Requires-Dist: pydash (==4.3.0)
+
+dados *Beta*
+================
+
+Random word generator
+
+Please ★ this repo if you found it useful ★ ★ ★
+
+
+Contributing
+------------
+
+1. Fork it!
+2. Create your feature branch: ``git checkout -b my-new-feature``
+3. Commit your changes: ``git commit -m 'Add some feature'``
+4. Push to the branch: ``git push origin my-new-feature``
+5. Submit a pull request :D
+
+
+License
+-------
+
+`MIT License`_
+
+`Jam Risser`_ © 2017
+
+
+Credits
+-------
+
+-  `Jam Risser`_ - Author
+
+
