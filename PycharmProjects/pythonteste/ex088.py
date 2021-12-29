@@ -2,17 +2,17 @@ from random import randint
 from time import sleep
 lista = list()
 jogos = list()
-print(f'{"-" * 40}\n{"JOGA NA MEGA SENA":^40}\n{"-" * 40}')
+print(f'{"-" * 40}\n{"JOGA NA lotofácil":^40}\n{"-" * 40}')
 quant = int(input('Quantos jogos você quer que eu sorteie? '))
 tot = 1
 while tot <= quant:
     cont = 0
     while True:
-        num = randint(1, 60)
+        num = randint(1, 25)
         if num not in lista:
             lista.append(num)
             cont += 1
-        if cont >= 6:
+        if cont >= 15:
             break
     lista.sort()
     jogos.append(lista[:])
